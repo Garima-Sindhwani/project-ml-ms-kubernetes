@@ -1,4 +1,4 @@
-!https://dl.circleci.com/status-badge/img/gh/Garima-Sindhwani/project-ml-ms-kubernetes/tree/main.svg?style=svg!:https://dl.circleci.com/status-badge/redirect/gh/Garima-Sindhwani/project-ml-ms-kubernetes/tree/main
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Garima-Sindhwani/project-ml-ms-kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Garima-Sindhwani/project-ml-ms-kubernetes/tree/main)
 
 ## Project Overview
 
